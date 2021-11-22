@@ -1,5 +1,8 @@
 # VocabulARy - XR Hackathon 2021
 
+VocabulARy is a mixed reality application that helps users build their vocabulary in any language. From the context around, the user can ask how an object is called in a specific language. A virtual object associated with the real object is then shown to the user, this visual information helps the user to remember the new word for a prolonged time.
+Our prototype uses Voice and Passthrough SDK.
+
 To run VocabulARy just load the apk to your Quest 2 and start the application.
 
 The application uses Passthrough SDK, so make sure Experimental Features are enabled.
