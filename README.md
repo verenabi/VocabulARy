@@ -1,1 +1,2 @@
-# VocabulARy
+# VocabulARy - XR Hackathon
+
